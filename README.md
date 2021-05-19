@@ -1,4 +1,4 @@
-# HSMM-code-and-Related-literature
+# HSMM_codes_and_Related_literatures
 HSMMs
 A hidden semi-Markov model (HSMM) is a statistical model. In this model, an observation sequence is assumed to be governed by an underlying semi-Markov process with unobserved (hidden) states. Each hidden state has a generally distributed duration, which is associated with the number of observations produced while in the state, and a probability distribution over the possible observations.
 
