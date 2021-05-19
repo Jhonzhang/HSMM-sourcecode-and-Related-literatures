@@ -1,6 +1,6 @@
 # HSMM-code-and-Related-literature
-this is the HSMM code, The ownership of these codes is Professor Yu Shunzheng
-if you want to learn more about Professor Yu :http://sdcs.sysu.edu.cn/node/2489
+This is the HSMM code, The ownership of these codes is Professor Yu Shunzheng.
+If you want to learn more about the Professor Yu :http://sdcs.sysu.edu.cn/node/2489.
 教师简介: 
 长期从事网络空间安全领域的教学科研工作。曾主持国家高技术研究发展计划863项目、国家自然科学基金-广东联合基金重点项目、广东省科技计划重大专项项目等，发表论文200多篇。研发经费充裕，并拥有配备数百万元高档网络设备的研究室。与数个大型企业有广泛长期的合作关系。已培养博士后2名、博士22名、硕士103名。培养的学生大多在华为、腾讯等大型企业和高校从事网络（以及网络安全）相关的工作，有的已经成为教授、副教授、高工，担任院长、总工等领导工作。
 
